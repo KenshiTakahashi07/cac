@@ -1,4 +1,7 @@
-Clone code về ``https://github.com/noqokhxnh/Traffic_Sign.git``
+```bash
+git clone https://github.com/noqokhxnh/Traffic_Sign.git
+cd Traffic_Sign
+```
 
 Tải file này về ``https://drive.google.com/file/d/1jdViWaqhEJHFSlaSC-ZpEgZmoiqFLI4r/view?usp=drive_link`` rồi giải nén
 
