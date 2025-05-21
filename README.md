@@ -1,4 +1,4 @@
-Clone code về
+Clone code về ``https://github.com/noqokhxnh/Traffic_Sign.git``
 
 Tải file này về `https://drive.google.com/file/d/1jdViWaqhEJHFSlaSC-ZpEgZmoiqFLI4r/view?usp=drive_link` rồi giải nén
 
